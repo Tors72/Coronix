@@ -1,1 +1,7 @@
-  
+{
+  "variants" : {
+    "" : {
+      "model" : "coronix:block/ruby_block"
+    }
+  }
+}

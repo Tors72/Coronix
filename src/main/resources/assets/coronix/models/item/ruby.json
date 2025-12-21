@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures" : {
-    "layer0": "coronix:item/ruby.png"
+    "layer0": "coronix:item/ruby"
   }
 }

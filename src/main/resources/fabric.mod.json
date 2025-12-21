@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "coronix",
 	"version": "${version}",
-	"name": "Coronix",
+	"name": "coronix",
 	"description": "One singular block",
 	"authors": [
 		"Me!"

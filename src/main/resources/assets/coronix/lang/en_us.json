@@ -1,3 +1,5 @@
 {
-  "item.coronix.ruby" : "Ruby"
+  "item.coronix.ruby" : "Ruby",
+
+  "block.coronix.ruby_block" : "Ruby Block"
 }

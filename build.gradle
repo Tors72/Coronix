@@ -9,7 +9,16 @@ group = project.maven_group
 base {
 	archivesName = project.archives_base_name
 }
-
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java']
+        }
+        resources {
+            srcDirs = ['src/main/resources']
+        }
+    }
+}
 repositories {
 	// Add repositories to retrieve artifacts from in here.
 	// You should only use this when depending on other mods because

@@ -2,8 +2,7 @@ package tors.coronix.mod.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.ItemGroups;
-import net.minecraft.registry.Registries;
-import net.minecraft.registry.Registry;
+import net.minecraft.registry.*;
 import net.minecraft.util.Identifier;
 import tors.coronix.mod.Coronix;
 import net.minecraft.item.Item;
