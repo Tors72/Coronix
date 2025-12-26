@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import tors.coronix.mod.block.ModBlocks;
+import tors.coronix.mod.item.ModItemGroups;
 import tors.coronix.mod.item.ModItems;
 
 public class Coronix implements ModInitializer {
@@ -15,5 +16,6 @@ public class Coronix implements ModInitializer {
 	public void onInitialize() {
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
+        ModItemGroups.registerItemGroups();
 	}
 }

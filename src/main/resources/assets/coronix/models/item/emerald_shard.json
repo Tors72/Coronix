@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures" : {
+    "layer0": "coronix:item/emerald_shard"
+  }
+}

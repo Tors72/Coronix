@@ -1,5 +1,7 @@
 {
   "item.coronix.ruby" : "Ruby",
-
-  "block.coronix.ruby_block" : "Ruby Block"
+  "item.coronix.emerald_shard" : "Emerald Shard",
+  "block.coronix.ruby_block" : "Ruby Block",
+  "itemgroup.coronix.ruby_items": "Ruby Items",
+  "itemgroup.coronix.shard_items": "Shards"
 }
